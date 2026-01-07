@@ -61,7 +61,7 @@ nav .menu a{
 }
 
 #banner{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     margin: 47px 38px 0 230px;
     display: flex;
     justify-content: space-between;
@@ -92,4 +92,17 @@ nav .menu a{
 #banner .banner-image{
     max-width: 585px;
     vertical-align: middle;
+}
+
+#about{
+    padding-top: 130px;
+}
+
+#about .about-container{
+    background-color: #FFF8F3;
+    width: 71%;
+    max-width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 130px 156px;
 }
